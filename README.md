@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome!  👋  
   
 
-### <div align="center">I'm Eric, a full-time front-end software developer learning JavaScript and React</div>  
+### <div align="left">I'm Eric, a full-time front-end software developer learning JavaScript and React</div>  
   
 - 🛠️ I’m currently working on [a React video project](https://github.com/reneeswick/rancidTomatillo)  
 - 🌱 I’m currently learning Cypress and Router  
